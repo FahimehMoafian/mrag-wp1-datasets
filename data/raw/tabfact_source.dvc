@@ -1,0 +1,6 @@
+outs:
+- md5: 98e5fb0bce93afe5dc6f3468e3f4c202.dir
+  size: 31931932
+  nfiles: 16595
+  hash: md5
+  path: tabfact_source
